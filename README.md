@@ -1,1 +1,1 @@
-# coderdojobrecht
+# Coderdojo Brecht
